@@ -1,0 +1,16 @@
+E:\Project C#\Genshin_Sign\Genshin_Sign\bin\Debug\netcoreapp3.1\Genshin_Sign.exe
+E:\Project C#\Genshin_Sign\Genshin_Sign\obj\Debug\netcoreapp3.1\Genshin_Sign.csprojAssemblyReference.cache
+E:\Project C#\Genshin_Sign\Genshin_Sign\obj\Debug\netcoreapp3.1\Genshin_Sign.AssemblyInfoInputs.cache
+E:\Project C#\Genshin_Sign\Genshin_Sign\obj\Debug\netcoreapp3.1\Genshin_Sign.AssemblyInfo.cs
+E:\Project C#\Genshin_Sign\Genshin_Sign\bin\Debug\netcoreapp3.1\Genshin_Sign.deps.json
+E:\Project C#\Genshin_Sign\Genshin_Sign\bin\Debug\netcoreapp3.1\Genshin_Sign.runtimeconfig.json
+E:\Project C#\Genshin_Sign\Genshin_Sign\bin\Debug\netcoreapp3.1\Genshin_Sign.runtimeconfig.dev.json
+E:\Project C#\Genshin_Sign\Genshin_Sign\bin\Debug\netcoreapp3.1\Genshin_Sign.dll
+E:\Project C#\Genshin_Sign\Genshin_Sign\bin\Debug\netcoreapp3.1\Genshin_Sign.pdb
+E:\Project C#\Genshin_Sign\Genshin_Sign\bin\Debug\netcoreapp3.1\RestSharp.dll
+E:\Project C#\Genshin_Sign\Genshin_Sign\obj\Debug\netcoreapp3.1\Genshin_Sign.csproj.CopyComplete
+E:\Project C#\Genshin_Sign\Genshin_Sign\obj\Debug\netcoreapp3.1\Genshin_Sign.dll
+E:\Project C#\Genshin_Sign\Genshin_Sign\obj\Debug\netcoreapp3.1\Genshin_Sign.pdb
+E:\Project C#\Genshin_Sign\Genshin_Sign\obj\Debug\netcoreapp3.1\Genshin_Sign.genruntimeconfig.cache
+E:\Project C#\Genshin_Sign\Genshin_Sign\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Project C#\Genshin_Sign\Genshin_Sign\obj\Debug\netcoreapp3.1\Genshin_Sign.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zUYUzT4X17XPJ5oR6dnqfWffDRnFBEbq252INGdc0EBb5trTgC2P8fa8Ac3N+j1LcpRrYWhTXKrsSUr7xbCIQ==",
+  "success": true,
+  "projectFilePath": "E:\\Project C#\\Genshin_Sign\\Genshin_Sign\\Genshin_Sign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wither\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Wither\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
